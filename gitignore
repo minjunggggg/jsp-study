@@ -1,0 +1,17 @@
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Build output
+/bin/
+/build/
+/target/
+
+# Tomcat / Server
+/Servers/
+/.metadata/
+
+# OS
+.DS_Store
+Thumbs.db
